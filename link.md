@@ -51,3 +51,6 @@ http://www.at91.com/linux4sam/bin/view/Linux4SAM/BuildRoot
 http://www.cosino.io/learning/documentation-articles
 
 http://blog.atmel.com/
+https://github.com/cosino/at91bootstrap-cosino
+https://github.com/linux4sam/meta-atmel
+https://github.com/LetoThe2nd
