@@ -1,20 +1,3 @@
-typedef struct _lpet_module_conf_t
-{
-    uint32_t baud_rate;	/*for master only */
-    uint32_t run_mode;	/*Slave or master */
-} lpet_module_conf_t;
-
-
-
-enum LPET_MODULE_RUN_MODE
-{
-    LPET_MODULE_RUN_MODE_BL = 1,
-    LPET_MODULE_RUN_MODE_INIT,
-    LPET_MODULE_RUN_MODE_RUN,
-    LPET_MODULE_RUN_MODE_TOTAL
-};
-
-
 
 
 
